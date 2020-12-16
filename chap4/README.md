@@ -30,7 +30,7 @@ The image below show the architecture of client/server UDP Java program.
 
 ![The architecture of client server UDP Java program](https://pasteboard.co/JF8eefX.png)
 
-How do UDP sockets work?
+### How do UDP sockets work?
 The UDP socket communication between a server and a client consists of several phases as follows.
 
 ![](https://miro.medium.com/max/597/1*0TPqib9R9MFekbMXWGnZ2g.png)
